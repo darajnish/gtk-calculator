@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.20)
 set(CMAKE_EXPORT_COMPILE_COMMANDS on)
 # Build type
 #set(CMAKE_BUILD_TYPE Debug)
-set(CMAKE_BUILD_TYPE Debug)
+set(CMAKE_BUILD_TYPE Release)
 
 # set project name
 project(calku VERSION 0.1)
